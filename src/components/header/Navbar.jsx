@@ -13,10 +13,13 @@ const Navbar = () => {
           <a href='#'>Career</a>
           <a href='#'>Blog</a>
           {/* Button */}
-          <div className='px-8 py-3 bg-fuchsia-600 rounded-full flex items-center space-x-6'>
+          <a
+            href='#'
+            className='px-8 py-3 bg-fuchsia-600 rounded-full flex items-center space-x-6'
+          >
             <p>Contact Us</p>
             <BsArrowRight size={20} className='stroke-1' />
-          </div>
+          </a>
         </div>
         {/* Hamburger */}
         <FiMenu className='lg:hidden' size={30} />
