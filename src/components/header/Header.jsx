@@ -4,7 +4,7 @@ import Hero from './Hero'
 const Header = () => {
   return (
     <>
-      <div className='bg-slate-900 min-h-screen p-4 bg-hero bg-cover bg-no-repeat relative'>
+      <div className='bg-slate-900 p-4 pb-32 bg-hero bg-cover bg-no-repeat relative'>
         {/* Overlay */}
         <div className='absolute top-0 left-0 h-full w-full bg-gradient-to-b from-transparent  to-slate-900'></div>
         {/* Header */}

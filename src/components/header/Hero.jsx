@@ -2,7 +2,7 @@ import { BsArrowRight } from 'react-icons/bs'
 const Hero = () => {
   return (
     <>
-      <div className='flex flex-col space-y-4 md:space-y-8 py-32 items-start text-white'>
+      <div className='flex flex-col space-y-4 md:space-y-8 py-28  items-start text-white'>
         <p className='font-medium text-lg md:text-xl'>Gym station</p>
         <h1 className='max-w-lg text-4xl md:text-5xl lg:text-6xl font-semibold'>
           Take care of your health with our exercise plans.
