@@ -4,4 +4,4 @@ My submission to the week 01 challenge hosted by Tyler Potts
 
 ## Demo
 
-Soon
+[Live Preview](https://tyler-potts-week-01-challenge-hassancodess.vercel.app/)
