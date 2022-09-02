@@ -11,10 +11,7 @@ const Hero = () => {
           We have been creating and implementing projects for many years all
           over the world, we have hundereds of satisfied customers.
         </p>
-        <a
-          href='#'
-          className='px-8 py-3 bg-fuchsia-600 rounded-full flex items-center space-x-6'
-        >
+        <a href='#' className='btn'>
           <p>Read more</p>
           <BsArrowRight size={20} className='stroke-1' />
         </a>
