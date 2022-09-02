@@ -7,9 +7,9 @@ module.exports = {
       sans: ['Poppins', 'sans-serif'],
     },
     extend: {
-      backgroundImage: {
+      backgroundImage: (theme) => ({
         hero: "url('./src/assets/hero.jpg')",
-      },
+      }),
     },
   },
   plugins: [require('@tailwindcss/line-clamp')],
