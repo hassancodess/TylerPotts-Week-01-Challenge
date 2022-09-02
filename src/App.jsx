@@ -1,9 +1,11 @@
+import Features from './components/features/Features'
 import Header from './components/header/Header'
 
 function App() {
   return (
-    <div>
+    <div className='bg-slate-900'>
       <Header />
+      <Features />
     </div>
   )
 }
